@@ -2,3 +2,4 @@ lox
 aider-chat
 git+https://github.com/princeton-nlp/SWE-bench
 pre-commit
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
